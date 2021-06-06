@@ -1,0 +1,16 @@
+{
+  "name": "personal-project",
+  "version": "1.0.0",
+  "description": "persona-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chelsea Regan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "git": "^0.1.5",
+    "init": "^0.1.2"
+  }
+}

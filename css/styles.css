@@ -1,0 +1,24 @@
+body {
+    background-image: url("/images/pretty.JPG");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header-col{
+    padding: 5%;
+    margin: 10%;
+    color: white;
+    background-color: rgba(97, 19, 97, 0.897);
+}
+
+
+footer {
+    padding: 5%;
+    color: white;
+    background-color: rgba(97, 19, 97, 0.897);
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;    
+    text-align: center;
+    }
